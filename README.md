@@ -1,1 +1,0 @@
-# JS_PJT_Lotto
